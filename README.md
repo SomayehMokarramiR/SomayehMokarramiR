@@ -1,5 +1,23 @@
 # 💫 About Me:
-<br>![Earth](https://github.com/SomayehMokarramiR/Somayeh-Mokarrami/assets/146337302/67c1a9d8-af41-4264-b5cd-d9225e5fe363) 𝐇𝐞𝐥𝐥𝐨, 👋 <b>I am Somayeh Mokarrami Rostami </b> <br><br>I am Programmer and front end developer with over 3 years of experience in designing and developing web applications in different teams, proficient in  technologies HTML5, CSS3, JavaScript,   and modern frameworks React and Next.js and familiar with TypeScript .Interested in learning new technologies and facing various challenges with the spirit of cooperation and teamwork.<p ><br>   📫 How to reach me: <a href='s.m.rostami62@gmail.com'>s.m.rostami62@gmail.com</a></p>
+<br>![Earth](https://github.com/SomayehMokarramiR/Somayeh-Mokarrami/assets/146337302/67c1a9d8-af41-4264-b5cd-d9225e5fe363) 𝐇𝐞𝐥𝐥𝐨, 👋 <b>I am Somayeh Mokarrami Rostami</b>
+
+<br><br>
+
+I am a Frontend Developer specializing in React.js, Next.js, and TypeScript, with 5+ years of experience in designing and developing responsive, scalable, and user-friendly web applications.
+
+<br><br>
+
+I have experience working with modern frontend technologies including HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, state management, API integration, and component-based architecture. I have developed real-world applications such as real estate platforms, booking systems, and admin dashboards.
+
+<br><br>
+
+I am passionate about writing clean and maintainable code, improving user experience, optimizing performance, and continuously learning modern technologies. I enjoy solving technical challenges and collaborating effectively with development teams.
+
+<p>
+<br>
+📫 How to reach me:
+<a href="mailto:s.m.rostami62@gmail.com">s.m.rostami62@gmail.com</a>
+</p>
 
 
 ## 🌐 Socials:
